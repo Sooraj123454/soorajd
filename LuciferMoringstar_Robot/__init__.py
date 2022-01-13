@@ -34,4 +34,7 @@ ABOUT = """
 ➥ Library : Pyrogram Asyncio 1.13.0
 
 ➥ CHANNEL : [Click Me](https://t.me/Asianet_2021)
+
+➥ GROUP   : [CLICK Me](https://t.me/Asianetmovie)
+
 """
