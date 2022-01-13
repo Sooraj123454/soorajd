@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Join  Our Channel', url=f'https://t.me/AVACINEMAS_2021')
+            InlineKeyboardButton('Join  Our Channel', url=f'https://t.me/Asianet_2021')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
